@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/EE-biomedical-racial-bias/precache-manifest.bdb0a9a74f7c5f982bc83941db11bcb1.js"
+  "/EE-biomedical-racial-bias/precache-manifest.10ff3bf2496d98bb904ba91a77a88fc4.js"
 );
 
 self.addEventListener('message', (event) => {

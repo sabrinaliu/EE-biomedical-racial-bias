@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "74b269426312cf23dd6529fb8f016fc5",
+    "revision": "f8c22cc88b3c45c51ca69aabda939b75",
     "url": "/EE-biomedical-racial-bias/index.html"
   },
   {
-    "revision": "07cf36bab0bc099f4ca8",
-    "url": "/EE-biomedical-racial-bias/static/css/main.4454ef51.chunk.css"
+    "revision": "dcbda76e415cd2e9a414",
+    "url": "/EE-biomedical-racial-bias/static/css/main.8d394f3a.chunk.css"
   },
   {
-    "revision": "37c77b21768946aa3238",
-    "url": "/EE-biomedical-racial-bias/static/js/2.1590ed17.chunk.js"
+    "revision": "07de459206f52e545ede",
+    "url": "/EE-biomedical-racial-bias/static/js/2.b2c3ea5f.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/EE-biomedical-racial-bias/static/js/2.1590ed17.chunk.js.LICENSE.txt"
+    "url": "/EE-biomedical-racial-bias/static/js/2.b2c3ea5f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "07cf36bab0bc099f4ca8",
-    "url": "/EE-biomedical-racial-bias/static/js/main.9d05bbb2.chunk.js"
+    "revision": "dcbda76e415cd2e9a414",
+    "url": "/EE-biomedical-racial-bias/static/js/main.df084b96.chunk.js"
   },
   {
     "revision": "074041642419d051991c",
@@ -30,5 +30,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "368ed67be6e20e612ca0913249fc7b74",
     "url": "/EE-biomedical-racial-bias/static/media/spiro_test.368ed67b.webp"
+  },
+  {
+    "revision": "64abba44d1e005e06e32107653ac903d",
+    "url": "/EE-biomedical-racial-bias/static/media/spirometer_display.64abba44.jpg"
   }
 ]);
