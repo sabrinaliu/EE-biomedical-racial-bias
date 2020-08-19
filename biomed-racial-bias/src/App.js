@@ -3,14 +3,15 @@ import { Parallax, ParallaxLayer } from 'react-spring/renderprops-addons'
 import Spirometer from './content_components/Spirometer';
 import RaceCorrection from './content_components/RaceCorrection';
 import History from './content_components/History';
+import Solutions from './content_components/Solutions';
 import './App.css';
 
 function App() {
   let parallax;
   return (
     <div className="App background-style">
-    <Parallax pages={5} ref={ref => parallax = ref}>
-      <ParallaxLayer offset={.3} speed={-1}>
+    <Parallax pages={6} ref={ref => parallax = ref}>
+      <ParallaxLayer offset={.3} speed={8}>
         <div id="intro">
           <header>Racial Bias in Biomedical Devices</header>
           <p id="intro-desc">Recent news reports often discuss racial biases in medical care, from the interactions between patient and physicians to the machine learning algorithms[1] used to diagnose individuals. These issues have been furthered noticed with the recent pandemic as well as the growing trend as more technology is incorporated into hospitals. Biomedical devices are no exception.
@@ -18,7 +19,7 @@ function App() {
         </div>
       </ParallaxLayer>
 
-      <ParallaxLayer offset={1} speed={0}>
+      <ParallaxLayer offset={1.} speed={.5}>
         <Spirometer />
       </ParallaxLayer>
 
@@ -37,9 +38,7 @@ function App() {
       </ParallaxLayer>
 
       <ParallaxLayer offset={5} speed={0}>
-        <div id="solutions">
-          <header>Potential Solutions</header>
-        </div>
+        <Solutions />
       </ParallaxLayer>
     </Parallax>
 
