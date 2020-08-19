@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/EE-biomedical-racial-bias/static/css/main.4454ef51.chunk.css",
+    "main.js": "/EE-biomedical-racial-bias/static/js/main.9d05bbb2.chunk.js",
+    "main.js.map": "/EE-biomedical-racial-bias/static/js/main.9d05bbb2.chunk.js.map",
+    "runtime-main.js": "/EE-biomedical-racial-bias/static/js/runtime-main.eb1ea0fa.js",
+    "runtime-main.js.map": "/EE-biomedical-racial-bias/static/js/runtime-main.eb1ea0fa.js.map",
+    "static/js/2.1590ed17.chunk.js": "/EE-biomedical-racial-bias/static/js/2.1590ed17.chunk.js",
+    "static/js/2.1590ed17.chunk.js.map": "/EE-biomedical-racial-bias/static/js/2.1590ed17.chunk.js.map",
+    "index.html": "/EE-biomedical-racial-bias/index.html",
+    "precache-manifest.bdb0a9a74f7c5f982bc83941db11bcb1.js": "/EE-biomedical-racial-bias/precache-manifest.bdb0a9a74f7c5f982bc83941db11bcb1.js",
+    "service-worker.js": "/EE-biomedical-racial-bias/service-worker.js",
+    "static/css/main.4454ef51.chunk.css.map": "/EE-biomedical-racial-bias/static/css/main.4454ef51.chunk.css.map",
+    "static/js/2.1590ed17.chunk.js.LICENSE.txt": "/EE-biomedical-racial-bias/static/js/2.1590ed17.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/EE-biomedical-racial-bias/static/media/lungs_background.72777e22.jpg",
+    "static/media/spiro_test.webp": "/EE-biomedical-racial-bias/static/media/spiro_test.368ed67b.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb1ea0fa.js",
+    "static/js/2.1590ed17.chunk.js",
+    "static/css/main.4454ef51.chunk.css",
+    "static/js/main.9d05bbb2.chunk.js"
+  ]
+}
