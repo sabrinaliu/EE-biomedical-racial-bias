@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/EE-biomedical-racial-bias/static/css/main.8d394f3a.chunk.css",
-    "main.js": "/EE-biomedical-racial-bias/static/js/main.df084b96.chunk.js",
-    "main.js.map": "/EE-biomedical-racial-bias/static/js/main.df084b96.chunk.js.map",
+    "main.css": "/EE-biomedical-racial-bias/static/css/main.01e9c633.chunk.css",
+    "main.js": "/EE-biomedical-racial-bias/static/js/main.9180c446.chunk.js",
+    "main.js.map": "/EE-biomedical-racial-bias/static/js/main.9180c446.chunk.js.map",
     "runtime-main.js": "/EE-biomedical-racial-bias/static/js/runtime-main.eb1ea0fa.js",
     "runtime-main.js.map": "/EE-biomedical-racial-bias/static/js/runtime-main.eb1ea0fa.js.map",
     "static/js/2.b2c3ea5f.chunk.js": "/EE-biomedical-racial-bias/static/js/2.b2c3ea5f.chunk.js",
     "static/js/2.b2c3ea5f.chunk.js.map": "/EE-biomedical-racial-bias/static/js/2.b2c3ea5f.chunk.js.map",
     "index.html": "/EE-biomedical-racial-bias/index.html",
-    "precache-manifest.10ff3bf2496d98bb904ba91a77a88fc4.js": "/EE-biomedical-racial-bias/precache-manifest.10ff3bf2496d98bb904ba91a77a88fc4.js",
+    "precache-manifest.e947cab0ec3f66978daec89ee1c83826.js": "/EE-biomedical-racial-bias/precache-manifest.e947cab0ec3f66978daec89ee1c83826.js",
     "service-worker.js": "/EE-biomedical-racial-bias/service-worker.js",
-    "static/css/main.8d394f3a.chunk.css.map": "/EE-biomedical-racial-bias/static/css/main.8d394f3a.chunk.css.map",
+    "static/css/main.01e9c633.chunk.css.map": "/EE-biomedical-racial-bias/static/css/main.01e9c633.chunk.css.map",
     "static/js/2.b2c3ea5f.chunk.js.LICENSE.txt": "/EE-biomedical-racial-bias/static/js/2.b2c3ea5f.chunk.js.LICENSE.txt",
     "static/media/App.css": "/EE-biomedical-racial-bias/static/media/lungs_background.72777e22.jpg",
     "static/media/spiro_test.webp": "/EE-biomedical-racial-bias/static/media/spiro_test.368ed67b.webp",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.eb1ea0fa.js",
     "static/js/2.b2c3ea5f.chunk.js",
-    "static/css/main.8d394f3a.chunk.css",
-    "static/js/main.df084b96.chunk.js"
+    "static/css/main.01e9c633.chunk.css",
+    "static/js/main.9180c446.chunk.js"
   ]
 }

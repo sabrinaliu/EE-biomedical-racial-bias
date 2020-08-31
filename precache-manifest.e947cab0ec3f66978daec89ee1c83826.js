@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f8c22cc88b3c45c51ca69aabda939b75",
+    "revision": "dd33d30e1e8dbb2f6a4a0b093666db18",
     "url": "/EE-biomedical-racial-bias/index.html"
   },
   {
-    "revision": "dcbda76e415cd2e9a414",
-    "url": "/EE-biomedical-racial-bias/static/css/main.8d394f3a.chunk.css"
+    "revision": "fb24fea3171a893e366c",
+    "url": "/EE-biomedical-racial-bias/static/css/main.01e9c633.chunk.css"
   },
   {
     "revision": "07de459206f52e545ede",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/EE-biomedical-racial-bias/static/js/2.b2c3ea5f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dcbda76e415cd2e9a414",
-    "url": "/EE-biomedical-racial-bias/static/js/main.df084b96.chunk.js"
+    "revision": "fb24fea3171a893e366c",
+    "url": "/EE-biomedical-racial-bias/static/js/main.9180c446.chunk.js"
   },
   {
     "revision": "074041642419d051991c",
