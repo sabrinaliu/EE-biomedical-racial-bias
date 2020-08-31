@@ -12,8 +12,8 @@ function App() {
 
   return (
     <div className="App background-style">
-    <Parallax pages={5} ref={ref => parallax = ref}>
-      <ParallaxLayer offset={.3} speed={8} style={{alignContent:"center"}}>
+    <Parallax pages={5.25} ref={ref => parallax = ref}>
+      <ParallaxLayer offset={.3} speed={4} style={{alignContent:"center"}}>
         <Card className="space-left-border" style={{backgroundColor: "black"}}>
           <Typography className="title" variant="h2">Racial Bias in Biomedical Devices</Typography>
           <CardContent>
@@ -27,11 +27,11 @@ function App() {
         </Card>
       </ParallaxLayer>
 
-      <ParallaxLayer offset={1} speed={.5}>
+      <ParallaxLayer offset={1} speed={2}>
         <Spirometer />
       </ParallaxLayer>
 
-      <ParallaxLayer offset={2} speed={0}>
+      <ParallaxLayer offset={2} speed={1}>
         <RaceCorrection />
       </ParallaxLayer>
 
